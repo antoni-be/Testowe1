@@ -1,1 +1,1 @@
-napisałem to przez nano w visualstudio wow 
+a to zmienilem prze github web

@@ -1,1 +1,1 @@
-a to zmienilem prze github web
+edycja readme :)
